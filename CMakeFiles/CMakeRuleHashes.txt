@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+c831c1db4532b9e3947bae1e2d4ec896 CMakeFiles/freedoom2
+b80f27e1b82d9284819605c75870e747 CMakeFiles/python_pip_package
+07d49734fa86d09b09ece4f92b7a6c0e bin/vizdoom.pk3
+0468fc0249e97452b667ad603879b2a1 src/vizdoom/src/sc_man_scanner.h
+49f19f7cfd5c6de5a51a8922348e4049 src/vizdoom/src/xlat_parser.c
+d0303ae91b581cb77138b0a0ce9ecbda src/vizdoom/wadsrc/CMakeFiles/pk3

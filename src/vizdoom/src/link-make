@@ -1,0 +1,1 @@
+if [ ! -e /Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/../../bin/vizdoom ]; then ln -sf /Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/src/vizdoom /Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/../../bin/vizdoom; fi

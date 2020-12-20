@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/dmisc.c
+gdtoaimp.h
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/gdtoaimp.h
+
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/dtoa.c
+gdtoaimp.h
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/gdtoaimp.h
+
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/gdtoa.h
+arith.h
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/arith.h
+stddef.h
+-
+
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/gdtoaimp.h
+gdtoa.h
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/gdtoa.h
+gd_qnan.h
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/gd_qnan.h
+fenv.h
+-
+stdio.h
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/stdio.h
+stdlib.h
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/stdlib.h
+string.h
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/string.h
+errno.h
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/errno.h
+float.h
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/float.h
+math.h
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/math.h
+
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/misc.c
+gdtoaimp.h
+/Users/vivswan/Desktop/OSU/experiments/ViZDoom/src/vizdoom/gdtoa/gdtoaimp.h
+
